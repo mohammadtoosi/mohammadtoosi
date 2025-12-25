@@ -1,6 +1,5 @@
-<h2 align="left">Hi 👋! This is Muhammed ... and I'm a Full stack developer</h2>
-
-###
+<h1 align="center">👋 Hi, I'm Muhammed</h1>
+<h3 align="center">Full-Stack Developer | AI Engineering Enthusiast</h3>
 
 <br clear="both">
 
@@ -9,6 +8,99 @@
 </div>
 
 ###
+
+<p align="center">
+I am a Full-Stack Developer focused on building creative, scalable, and production-ready applications with strong attention to architecture, performance, and maintainability. My work centers around TypeScript-first ecosystems, modern full-stack patterns, and real-world systems that are designed to scale. Alongside this, I am actively expanding my expertise into the <strong>AI Engineering</strong> domain.
+</p>
+
+---
+
+## 🚀 What I Do
+
+- **Build** end-to-end full-stack applications from concept to production
+- **Architect** scalable systems with clean separation of concerns
+- **Develop** robust APIs and seamless frontend experiences
+- **Apply** modern patterns such as type-safe APIs, RPC-based communication, and modular architectures
+- **Rapidly prototype** and ship features using AI-assisted development workflows
+
+---
+
+## 🧠 Full-Stack & Frontend Expertise
+
+### Frontend
+```typescript
+const frontend = {
+  languages: ['TypeScript', 'JavaScript'],
+  frameworks: ['React', 'Next.js'],
+  focus: [
+    'Component-driven UI architecture',
+    'State management & data fetching',
+    'Performance optimization',
+    'SEO-friendly & accessible interfaces'
+  ]
+}
+```
+
+### Full-Stack & API Layer
+- **tRPC** for end-to-end type safety
+- RPC-based architectures
+- RESTful APIs where appropriate
+- **T3 Stack** (Next.js, tRPC, Prisma, TypeScript)
+- Authentication, authorization, and role-based access control
+- Server-side rendering, Server Components, and API routes
+
+---
+
+## ⚙️ Backend Engineering
+
+### Node.js Ecosystem
+- **Node.js**, **Express**, **Fastify**
+- **Prisma ORM**
+- API design, validation, and error handling
+- Scalable service-oriented and modular backends
+
+### Python & High-Performance APIs
+- **Python**, **FastAPI**
+- Async APIs and data-driven services
+
+---
+
+## 🗄️ Databases & Data Modeling
+
+- **PostgreSQL** (primary focus)
+- Relational database design & normalization
+- NoSQL databases (document-based & key-value concepts)
+- Schema design, migrations, and performance optimization
+- Strong focus on data integrity and scalability
+
+---
+
+## 🤖 AI-Driven Development & AI Engineering Path
+
+I am actively learning and transitioning into **AI Engineering**, with hands-on experience and experimentation in:
+
+- AI-assisted software development
+- Intelligent agents and automation workflows
+- MCP-based systems and tool orchestration
+- Leveraging AI to accelerate development, testing, and system design
+
+> **I strongly believe AI is a force multiplier for engineers** and integrate it into both learning and production workflows.
+
+---
+
+## ⚡ Fast Development & Innovation
+
+I enjoy building multiple projects across different domains, using:
+
+- **AI tools and agents** to speed up iteration
+- **Automation** to reduce repetitive work
+- **Modern full-stack patterns** for rapid yet maintainable delivery
+
+This approach allows me to validate ideas quickly while maintaining production-grade quality.
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -50,10 +142,45 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadtoosi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+---
+
+## 🌐 Portfolio & Projects
+
+- Multiple portfolio projects and real-world applications
+- Experience across different industries and product types
+- Continuous improvement and refactoring mindset
+
+**🌍 Personal Website:** Coming Soon – under development
+
+---
+
+## 🤝 Soft Skills & Team Collaboration
+
+- Strong team player with excellent collaboration skills
+- Enjoy helping teammates and sharing knowledge
+- Comfortable with team leadership and coordination
+- Passionate about building high-quality products together as a team
+
+I value clear communication, ownership, and delivering meaningful results collectively.
+
+---
+
+## 📚 Continuous Learning & Growth
+
+I am **genuinely thirsty for learning** and committed to long-term growth as an engineer:
+
+- Actively learning new technologies, tools, and paradigms
+- Curious, adaptable, and improvement-driven
+- Always exploring better architectures and development workflows
+
+---
+
+## 📫 Let's Connect
+
+If you're interested in collaboration, open-source projects, or building innovative products, feel free to reach out.
 
 <div align="left">
-  <a href="t.me/MT_TSEM" target="_blank">
+  <a href="https://t.me/MT_TSEM" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
